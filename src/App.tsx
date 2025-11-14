@@ -139,7 +139,13 @@ function App() {
             Based on US Census Bureau data. Model trained on 32,561 records with 85% accuracy.
           </p>
           <p className="mt-2">
-            For educational and demonstration purposes only.
+            For educational and demonstration purposes only. This is a Machine Learning Project.
+          </p>
+          <p className="mt-3">
+            © {new Date().getFullYear()} <a href="https://www.visuark.com/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">Visuark</a>. All rights reserved.
+          </p>
+          <p className="mt-1">
+            Developed by <a href="https://neeraj-portfolio-ruddy.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">Neeraj Kumhar</a>.
           </p>
         </footer>
       </div>
